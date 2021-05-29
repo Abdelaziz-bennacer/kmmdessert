@@ -1,0 +1,2 @@
+fr/abdel/androidApp/BuildConfig.java
+ fr.abdel.androidApp.BuildConfig

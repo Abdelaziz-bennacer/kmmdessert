@@ -1,0 +1,58 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="fr.abdel.androidApp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->C:\Users\2abde\IdeaProjects\kmmdessert\androidApp\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\2abde\IdeaProjects\kmmdessert\androidApp\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\2abde\IdeaProjects\kmmdessert\androidApp\src\main\AndroidManifest.xml:3:5-13:19
+12        android:allowBackup="false"
+12-->C:\Users\2abde\IdeaProjects\kmmdessert\androidApp\src\main\AndroidManifest.xml:4:13-40
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] C:\Users\2abde\.gradle\caches\transforms-3\0c634da2857e30d9809ef9d6f607833a\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:supportsRtl="true"
+16-->C:\Users\2abde\IdeaProjects\kmmdessert\androidApp\src\main\AndroidManifest.xml:5:13-39
+17        android:theme="@style/AppTheme" >
+17-->C:\Users\2abde\IdeaProjects\kmmdessert\androidApp\src\main\AndroidManifest.xml:6:13-44
+18        <activity android:name="fr.abdel.androidApp.MainActivity" >
+18-->C:\Users\2abde\IdeaProjects\kmmdessert\androidApp\src\main\AndroidManifest.xml:7:9-12:20
+18-->C:\Users\2abde\IdeaProjects\kmmdessert\androidApp\src\main\AndroidManifest.xml:7:19-47
+19            <intent-filter>
+19-->C:\Users\2abde\IdeaProjects\kmmdessert\androidApp\src\main\AndroidManifest.xml:8:13-11:29
+20                <action android:name="android.intent.action.MAIN" />
+20-->C:\Users\2abde\IdeaProjects\kmmdessert\androidApp\src\main\AndroidManifest.xml:9:17-68
+20-->C:\Users\2abde\IdeaProjects\kmmdessert\androidApp\src\main\AndroidManifest.xml:9:25-66
+21
+22                <category android:name="android.intent.category.LAUNCHER" />
+22-->C:\Users\2abde\IdeaProjects\kmmdessert\androidApp\src\main\AndroidManifest.xml:10:17-76
+22-->C:\Users\2abde\IdeaProjects\kmmdessert\androidApp\src\main\AndroidManifest.xml:10:27-74
+23            </intent-filter>
+24        </activity>
+25        <activity
+25-->[androidx.compose.ui:ui-tooling:1.0.0-alpha10] C:\Users\2abde\.gradle\caches\transforms-3\4bb117745193b91c838145498360661a\transformed\ui-tooling-1.0.0-alpha10\AndroidManifest.xml:25:9-27:39
+26            android:name="androidx.compose.ui.tooling.preview.PreviewActivity"
+26-->[androidx.compose.ui:ui-tooling:1.0.0-alpha10] C:\Users\2abde\.gradle\caches\transforms-3\4bb117745193b91c838145498360661a\transformed\ui-tooling-1.0.0-alpha10\AndroidManifest.xml:26:13-79
+27            android:exported="true" />
+27-->[androidx.compose.ui:ui-tooling:1.0.0-alpha10] C:\Users\2abde\.gradle\caches\transforms-3\4bb117745193b91c838145498360661a\transformed\ui-tooling-1.0.0-alpha10\AndroidManifest.xml:27:13-36
+28
+29        <provider
+29-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\2abde\.gradle\caches\transforms-3\5438eef7df875f221aa4338e7d8c0557\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+30            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+30-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\2abde\.gradle\caches\transforms-3\5438eef7df875f221aa4338e7d8c0557\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+31            android:authorities="fr.abdel.androidApp.lifecycle-process"
+31-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\2abde\.gradle\caches\transforms-3\5438eef7df875f221aa4338e7d8c0557\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+32            android:exported="false"
+32-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\2abde\.gradle\caches\transforms-3\5438eef7df875f221aa4338e7d8c0557\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+33            android:multiprocess="true" />
+33-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\2abde\.gradle\caches\transforms-3\5438eef7df875f221aa4338e7d8c0557\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+34    </application>
+35
+36</manifest>

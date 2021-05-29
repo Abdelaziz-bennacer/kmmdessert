@@ -1,0 +1,2 @@
+fr/abdel/shared/BuildConfig.java
+ fr.abdel.shared.BuildConfig

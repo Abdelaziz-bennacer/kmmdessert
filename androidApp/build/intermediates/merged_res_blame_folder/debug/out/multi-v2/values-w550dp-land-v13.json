@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\2abde\\IdeaProjects\\kmmdessert\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w550dp-land-v13\\values-w550dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\2abde\\.gradle\\caches\\transforms-3\\2d9f8ff1180e134b8df36087c3773f92\\transformed\\material-1.3.0\\res\\values-w550dp-land-v13\\values-w550dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                }
+            ]
+        }
+    ]
+}

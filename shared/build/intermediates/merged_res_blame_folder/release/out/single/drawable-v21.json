@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\2abde\\IdeaProjects\\kmmdessert\\shared\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\2abde\\.gradle\\caches\\transforms-3\\2d978828ce4183e3f0007a6435348c82\\transformed\\core-1.2.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\2abde\\IdeaProjects\\kmmdessert\\shared\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\2abde\\.gradle\\caches\\transforms-3\\2b14d7fa73e06d4ee613ef861498ee5c\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\2abde\\IdeaProjects\\kmmdessert\\shared\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\2abde\\.gradle\\caches\\transforms-3\\2b14d7fa73e06d4ee613ef861498ee5c\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\2abde\\IdeaProjects\\kmmdessert\\shared\\build\\intermediates\\res\\merged\\release\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\2abde\\.gradle\\caches\\transforms-3\\40f5667f7673b3d343a6a472f4452a40\\transformed\\material-1.2.1\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\2abde\\IdeaProjects\\kmmdessert\\shared\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\2abde\\.gradle\\caches\\transforms-3\\2b14d7fa73e06d4ee613ef861498ee5c\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\2abde\\IdeaProjects\\kmmdessert\\shared\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\2abde\\.gradle\\caches\\transforms-3\\2b14d7fa73e06d4ee613ef861498ee5c\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\2abde\\IdeaProjects\\kmmdessert\\shared\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\2abde\\.gradle\\caches\\transforms-3\\2b14d7fa73e06d4ee613ef861498ee5c\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    }
+]
