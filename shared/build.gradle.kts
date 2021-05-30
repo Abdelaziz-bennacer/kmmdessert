@@ -10,6 +10,18 @@ plugins {
 group = "fr.abdel"
 version = "1.0"
 
+// workaround for https://youtrack.jetbrains.com/issue/KT-43944
+android {
+    configurations {
+        create("androidTestApi")
+        create("androidTestDebugApi")
+        create("androidTestReleaseApi")
+        create("testApi")
+        create("testDebugApi")
+        create("testReleaseApi")
+    }
+}
+
 kotlin {
     android()
     ios {
@@ -29,7 +41,7 @@ kotlin {
     sourceSets {
         val commonMain by getting {
             dependencies {
-                api("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.4.3") {
+                api("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.0") {
                     isForce = true
                 }
 
