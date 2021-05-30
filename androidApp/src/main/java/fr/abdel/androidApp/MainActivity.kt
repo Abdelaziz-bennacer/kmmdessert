@@ -31,7 +31,7 @@ sealed class Screens(val route: String, val label: String, val icon: ImageVector
 }
 
 class MainActivity : AppCompatActivity() {
-    @SuppressLint("MissingSuperCall")
+    //@SuppressLint("MissingSuperCall")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
